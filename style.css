@@ -1,0 +1,36 @@
+ body {
+        background-color: lightgoldenrodyellow
+            }
+
+    .outer {
+        margin: auto;
+        height: 300px;
+        width: 400px;
+        border: px dotted black;
+        position:relative;
+        background-color: lavender;
+        margin-top: 200px;
+        box-shadow: 29px 30px 25px 7px;
+    }
+
+    p {
+        margin-left: 80px;
+    }
+
+    .in {
+        margin-left: 80px;
+        padding: 10px
+    }
+
+    #bt {
+        margin-top: 20px;
+        position: absolute;
+        left: 150px;
+    }
+
+    #bt:hover {
+        background: green;
+        font-size: 13px;
+        cursor: pointer;
+        color: white;
+    }
